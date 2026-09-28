@@ -1,0 +1,1 @@
+this is a new text file and i want to create some conflict with this.
